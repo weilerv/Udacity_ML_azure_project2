@@ -59,7 +59,7 @@ This steps ensures to detect anomalies and to visualize performance.
 
 
 ## Screen Recording
-link to the recording (*company policy did not allow to take screencast recording so recorded it by my phone)
+[Link](https://photos.app.goo.gl/bvjinDugzVb5F19g7) to the recording (*company policy did not allow to take screencast recording so recorded it by my phone)
 
 ## Improvement ideas 
 * better data cleaning and wrangling
