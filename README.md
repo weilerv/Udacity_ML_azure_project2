@@ -50,11 +50,38 @@ This steps ensures to detect anomalies and to visualize performance.
 * after inserting scoring_uri and key from deployment to endpoint.py, run it
 
 ### 7. Create, publish, consume pipeline
+* data:
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/f6864e8a-0ea3-4888-8bc4-4b5e6d8bad83)
+* pipeline (showing it has been created):
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/9c1f1446-24e3-4b4a-abe2-d517d9e31ab1)
+
+* The “Published Pipeline overview”, showing a REST endpoint and a status of ACTIVE
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/ebe8622f-5c7a-4a99-a2d9-224183371731)
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/58dfcdd2-5e34-40e2-8882-df60c90ff6c8)
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/02234080-3a88-405f-89ad-b6495d32de8e)
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/e48ebf37-effd-4e38-adee-d3891e4a1ca3)
+
+
+
+* A screenshot of the Jupyter Notebook is included in the submission showing the “Use RunDetails Widget” with the step runs
+  ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/118f92b8-cacb-49e2-a514-737e1f9f6b27)
+  ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/de35cfae-1b33-4734-b3b5-e87aae68e325)
+  ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/04ca3719-18c7-4add-b4e2-a17b227807dd)
+
+  ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/6826a055-e3fe-4f13-bfea-db80137ee5ee)
+
+
+* ML studio showing the pipeline endpoint as Active (Take a screenshot of the "Experiments" section showing the "Completed" status of the pipeline).
+![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/2dda2337-9cbc-4dcc-8492-55a8217a0a90)
+
+
+old screenshots:
 ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/8f49732b-b363-4572-a527-4e2e59a0c85c)
 ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/f29a2f83-61ba-47f7-8061-e3e5dc088803)
 ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/392f863a-70be-4935-9328-1b8d1605d536)
 ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/cb13cba4-db7a-4835-913f-364e117e9eac)
 ![image](https://github.com/weilerv/Udacity_ML_azure_project2/assets/37341293/bba0688f-371e-41ec-829e-fee54fe5b630)
+
 
 
 
